@@ -7,7 +7,6 @@ A homepage showcasing travel essentials, quick links, and travel memories.
 
 Individual country pages (Paris, Japan, Switzerland, Italy, Singapore) featuring travel places and activities.
 
-Internal navigation links and a contact section.
 DreamTravels/
 │── index.html                # Homepage
 │── Travel_Pages/
