@@ -69,12 +69,3 @@ Use JavaScript for interactivity (sliders, animations, form validation)
 Include a navigation bar for seamless browsing
 
 Add a blog/gallery section for extended content
-
-Getting Started
-
-1.Clone this repository:
-git clone https://github.com/your-username/dream-travels.git
-
-2.Open the project folder and run the index.html file in any web browser.
-
-3.Navigate through the links to explore travel pages.
